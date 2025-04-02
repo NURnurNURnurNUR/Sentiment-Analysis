@@ -1,9 +1,9 @@
 # Sentiment Analysis
 
 ## Overview
-This project performs sentiment analysis on text data, classifying sentiments as positive, negative, or neutral. It utilizes NLTK to analyze and detect the emotional tone of textual data.
+This project performs sentiment analysis on text data, classifying sentiments as positive, negative, or neutral.
 ## Model Details
--**Training Data:** Labeled sentiment dataset (TweetEval (sentiment))
+-**Training Data:** Labeled sentiment dataset (TweetEval (sentiment)) </br>
 -**Metrics:** Accuracy, F1-score
 - Model: [SenbiModel](https://huggingface.co/akdfga/SenbiModel)
 - Tokenizer: [Tokenizer](https://huggingface.co/akdfga/tokenizer)
