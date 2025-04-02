@@ -17,9 +17,9 @@ This project performs sentiment analysis on text data, classifying sentiments as
 
 ## Technologies Used
 - Python
-- Natural Language Toolkit (NLTK)
+- transformer-based language pre-trained model RoBERTa
 - scikit-learn
-- TensorFlow / PyTorch
+- PyTorch
 - pandas & numpy
 
 ## Installation
